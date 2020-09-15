@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Jonathan and I am a GIS expert and a Systems Analyst  👋
 
 <!--
 **jonatr/jonatr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
